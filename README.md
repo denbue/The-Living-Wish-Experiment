@@ -5,16 +5,16 @@ This experiment investigates a concept and the prototype for an interactive and 
 This repo contains the code for the technical part of the installation (WebApp, SpeechRecognition, ProcessingLoader and Arduino).
 
 Group members:
-Dennis Bücker / http://dennisbucker.com
-Carlos Mario Rodriguez Perdomo / http://bones.sikuani.net
-Mauricio Struckel
-Andrea Serra
-Jody Barton
+- Dennis Bücker / http://dennisbucker.com
+- Carlos Mario Rodriguez Perdomo / http://bones.sikuani.net
+- Mauricio Struckel
+- Andrea Serra
+- Jody Barton
 
 Full project documentation: https://dennisbucker.com/en/the-living-wish-experiment
 
 
-# instructions for the speech recognition
+# Instructions for the speech recognition
 
 See folder "Speech Recognition" for instructions.
 
